@@ -1,0 +1,38 @@
+
+
+SCtransmitter	KEYWORD1
+SCreceiver	KEYWORD1
+
+
+ClearBuffer	KEYWORD2
+Create	KEYWORD2
+
+GetChannel	KEYWORD2
+GetDurationHIGH	KEYWORD2
+GetDurationLOW	KEYWORD2
+GetID	KEYWORD2
+GetMessage	KEYWORD2
+GetMessageLength	KEYWORD2
+GetPin	KEYWORD2
+GetStartDurationHIGH	KEYWORD2
+GetStartDurationLOW	KEYWORD2
+GetState	KEYWORD2
+
+isListenning	KEYWORD2
+isSending	KEYWORD2
+
+Listen	KEYWORD2
+Reset	KEYWORD2
+Send	KEYWORD2
+
+SetChannel	KEYWORD2
+SetID	KEYWORD2
+SetInterval	KEYWORD2
+SetStart	KEYWORD2
+
+Stop	KEYWORD2
+
+
+
+
+
